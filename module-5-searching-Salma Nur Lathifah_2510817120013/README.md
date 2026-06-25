@@ -3,5 +3,5 @@
 # searching
 this repo is used as template for module searching
 |<br>
-Nama: <br>
-NIM: 
+Nama: Salma Nur Lathifah <br>
+NIM: 2510817120013
